@@ -10,14 +10,14 @@ The project was Lead by Kanzurrizk M R A (IT22166524) and our team members are K
 
 We have done 5 CRUD operations in our project where they were done by our team mates.
 
-Kanzurrizk M R A - IT22166524
+Kanzurrizk M R A - IT22166524 -
 Contact us 
 - Contact us contains the Insertion to the Database.
 - User can View the Contact us details
 - User can Update the Conatct us details
 - User can Delete the Contact us details
 
-Kajanthan Kirubakaran - IT22197214
+Kajanthan Kirubakaran - IT22197214 -
 Login, Signup for User
 - User is validated and Login in
 - User can Signup to the system
@@ -29,14 +29,14 @@ Login, Signup for Doctor
 - Doctor can Signup to the system
 - Doctor details are viewed to the doctor
 
-Mohanadas Sanoch - IT22159694
+Mohanadas Sanoch - IT22159694 -
 Appointment for User
 - Appointment contains the Insertion to the Database.
 - User can View the Appointment details
 - User can Update the Appointment details
 - User can Delete the Appointment details
 
-Thivekshan R - IT22629012
+Thivekshan R - IT22629012 - 
 Support for Doctor
 - Support contains the Insertion to the Database.
 - User can View the Support details
