@@ -3,7 +3,7 @@ OOP Project - SE/OOP/2023/S2/Metro/WD/G2 - Online e-Channeling System - CareOne
 
 Hello,
 
-"CareOne" is an outstanding online platform dedicated to simplifying your echannelling experience and offering top-quality services. Our user-friendly portal empowers you to effortlessly schedule online telehealth consultations and address various medical needs for patients, all from the comfort of your own device. We comprehend the urgency that often accompanies healthcare requirements, and our virtual services are designed to cater to these pressing needs efficiently.
+"CareOne" is an outstanding online platform dedicated to simplifying your e-channelling experience and offering top-quality services. Our user-friendly portal empowers you to effortlessly schedule online telehealth consultations and address various medical needs for patients, all from the comfort of your own device. We comprehend the urgency that often accompanies healthcare requirements, and our virtual services are designed to cater to these pressing needs efficiently.
 
 The project was Lead by Kanzurrizk M R A (IT22166524) and our team members are Kajanthan Kirubakaran (IT22197214), Mohanadas Sanoch (IT22159694), Thivekshan R (IT22629012). 
 
