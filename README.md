@@ -49,9 +49,7 @@ We had done individually the codings for our part while using the same servlet n
 
 Thank you.
 
-Kanzurrizk M R A - IT22166524
-Undergraduate Year 2 Semester 1 (2023) - Team Lead 
-Sri Lankan Institute of Information Technology (SLIIT)
+Kanzurrizk M R A - IT22166524 - Undergraduate Year 2 Semester 1 (2023) - Team Lead  - Sri Lankan Institute of Information Technology (SLIIT)
 
 
 
