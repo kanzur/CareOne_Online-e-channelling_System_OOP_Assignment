@@ -47,12 +47,13 @@ We also had used JSP files to display the viewing section to the User/ Doctor. W
 
 We had done individually the codings for our part while using the same servlet names and DBUtil file names to the project due to easiness of the codings and to match all in one when the it is over. Finally we do had to set all files in one personal computer and we made the proper file structure in the machine to provide the best outcome and the final outcome of the project. 
 
-Thank you for the consideration.
+Thank you.
 
 Kanzurrizk M R A - IT22166524
-Team Lead 
-Year 2 Semester 1 - 2023
+Undergraduate Year 2 Semester 1 (2023) - Team Lead 
 Sri Lankan Institute of Information Technology (SLIIT)
+
+
 
 
 
