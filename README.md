@@ -1,4 +1,5 @@
 # OOP-Assignment-CareOne-Online-e-channelling-System-
+
 OOP Project - SE/OOP/2023/S2/Metro/WD/G2 - Online e-Channeling System - CareOne
 
 Hello,
@@ -7,7 +8,7 @@ Hello,
 
 The project was Lead by Kanzurrizk M R A (IT22166524) and our team members are Kajanthan Kirubakaran (IT22197214), Mohanadas Sanoch (IT22159694), Thivekshan R (IT22629012). 
 
-We have done 5 CRUD operations in our project where they were done by our team.
+We have done 5 CRUD operations in our project where they were done by our team mates.
 
 Kanzurrizk M R A - IT22166524
 Contact us 
@@ -49,6 +50,9 @@ We had done individually the codings for our part while using the same servlet n
 Thank you for the consideration.
 
 Kanzurrizk M R A - IT22166524
-Team Lead
+Team Lead 
+Year 2 Semester 1 - 2023
+Sri Lankan Institute of Information Technology (SLIIT)
+
 
 
